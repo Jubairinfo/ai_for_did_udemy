@@ -1,9 +1,9 @@
 # ai_for_dld_udemy
 Ai-Augmented HDL Projects and Notebooks
 
-# AI fur Digital Logic Design (Colab Projects)
+# AI for Digital Logic Design (Colab Projects)
 
-This repository contains all AT generated notehooks and HDI files for the
+This repository contains all AI generated notehooks and HDL files for the
 course
 ** "AI-Augmented Digital Logic Design: From Elementary to Mastery" **.
 
