@@ -1,4 +1,4 @@
-# ai_for_did_udemy
+# ai_for_dld_udemy
 Ai-Augmented HDL Projects and Notebooks
 
 # AI fur Digital Logic Design (Colab Projects)
